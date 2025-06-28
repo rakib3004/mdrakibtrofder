@@ -32,7 +32,7 @@ const Navigation = ({ activeSection }: NavigationProps) => {
       <div className="max-w-6xl mx-auto px-4">
         <div className="flex justify-between items-center h-16">
           <div className="text-xl font-bold text-emerald-400">
-            Rakib Trofder
+            Md. Rakib Trofder
           </div>
 
           {/* Desktop Navigation */}
