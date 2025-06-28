@@ -5,7 +5,7 @@ const Education = () => {
       degree: "B.Sc. in Software Engineering",
       institution: "University of Dhaka",
       department: "Institute of Information Technology (IIT)",
-      period: "Feb 2024",
+      period: "2018-2023",
       grade: "CGPA 3.78/4.00",
       logo: "/lovable-uploads/0e990ffe-7287-4b73-88c9-19ad5383d7a4.png",
       type: "Bachelor's Degree"
@@ -14,10 +14,19 @@ const Education = () => {
       degree: "Higher Secondary Certificate (HSC)",
       institution: "Notre Dame College",
       department: "Science Group",
-      period: "2019",
-      grade: "CGPA 5.00/5.00",
+      period: "2016-2018",
+      grade: "GPA 5.00/5.00",
       logo: "/lovable-uploads/03aae794-06a9-467e-b3bd-2f0f4adce92f.png",
       type: "Higher Secondary"
+    },
+    {
+      degree: "Secondary School Certificate (SSC)",
+      institution: "Kurmitola High School & College",
+      department: "Science Group",
+      period: "2014-2016",
+      grade: "GPA 5.00/5.00",
+      logo: "/lovable-uploads/1457d719-46d6-4eff-be49-3c0d83f62a84.png",
+      type: "Secondary School"
     }
   ];
 
@@ -81,8 +90,8 @@ const Education = () => {
           <div className="bg-gradient-to-r from-purple-500/10 to-pink-500/10 rounded-lg p-6 border border-purple-500/20">
             <h3 className="text-xl font-semibold text-purple-400 mb-2">Academic Excellence</h3>
             <p className="text-gray-300">
-              Consistently achieved outstanding academic performance with perfect scores in higher secondary 
-              education and strong performance in software engineering studies.
+              Consistently achieved outstanding academic performance with perfect scores in both 
+              secondary and higher secondary education, and strong performance in software engineering studies.
             </p>
           </div>
         </div>

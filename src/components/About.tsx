@@ -54,11 +54,6 @@ const About = () => {
                 </li>
               </ul>
             </div>
-            
-            <div className="text-center">
-              <div className="text-2xl font-bold text-emerald-400 mb-2">60%</div>
-              <div className="text-gray-400">Server Scaling Improvement</div>
-            </div>
           </div>
         </div>
       </div>
